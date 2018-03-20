@@ -66,7 +66,7 @@ g=32.2;%[ft/s^2]
 % Display result from using 'fzero' function
 
 
-
+%% INSTRUTOR LINE
 
 
 
