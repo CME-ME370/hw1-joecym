@@ -1,7 +1,8 @@
 %% ME370 LSN16
 % Starter File
 % Instructor Version
-
+%
+%
 clear
 close all
 clc
@@ -65,7 +66,7 @@ g=32.2;%[ft/s^2]
 % Display result from using 'fzero' function
 
 
-
+%% INSTRUTOR LINE
 
 
 
