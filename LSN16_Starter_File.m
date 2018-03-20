@@ -1,7 +1,8 @@
 %% ME370 LSN16
 % Starter File
 % Instructor Version
-
+%
+%
 clear
 close all
 clc
