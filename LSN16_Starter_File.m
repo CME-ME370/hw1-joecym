@@ -6,7 +6,7 @@
 clear
 close all
 clc
-
+% date
 %% Given/known values
 h=1053;%[ft]
 cd=0.16;%[lbm/ft]
